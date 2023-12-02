@@ -72,7 +72,7 @@ Team agreement repo for Tech TrailBlazers's 401 midterm project
 
 ## Presentation Deck
 
-![Slideshow](https://docs.google.com/presentation/d/18msYFb5HE2D5biExijueMc9OIRDdUNpbtKn00S3nOzo/edit?usp=sharing)
+[Slideshow](https://docs.google.com/presentation/d/18msYFb5HE2D5biExijueMc9OIRDdUNpbtKn00S3nOzo/edit?usp=sharing)
 
 ## Git Process
 
