@@ -7,19 +7,16 @@ Team agreement repo for Tech TrailBlazers's 401 midterm project
 ### What are the key strengths of each person on the team?
 
 - John: Leadership and Teamwork
-- Mike-good listener, eye for detail, strives for quality, good at finding bugs
 - Julio: The Strength that Julio brings in knowledge with JavaScript and problem solving. Also skills in Node js and React js.
 
 ### How can you best utilize these strengths in the execution of your project?
 
 - John: Help others when they need assistance and help move things forward to the end goal when it seems like others are stuck
-- Mike: proofreading code
 - Julio: As a team player he can help others to help guide them when they encounter a problem and understand why it works.
 
 ### In which professional competencies do you each want to develop greater strength?
 
 - John: Getting Better with my craft and Ensuring I can make a quality Project
-- Mike: teamwork, skill in the craft
 - Julio: The professional competencies he would like to improve in is in the tool proficient and prioritization.
 
 ### Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?
